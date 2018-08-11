@@ -12,7 +12,7 @@
         </div>
         <?php include 'inc/message.php'; ?>
         <div class="panel-body">
-            <form action="login-process.php" method="POST">
+            <form action="contact-process.php" method="POST">
                 <div class="form-group">
                     <label for="name">Your Name</label>
                     <input type="text" id="name" name="name" class="form-control" placeholder="Your name..">
