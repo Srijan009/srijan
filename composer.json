@@ -1,0 +1,15 @@
+{
+    "name": "srijan/template",
+    "authors": [
+        {
+            "name": "srijan009",
+            "email": "srijanlama81@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer":"^6.0"
+    },
+    "autoload": {
+        "psr-4": {"Sagarmatha\\": "classes/"}
+    }
+}
